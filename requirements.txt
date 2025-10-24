@@ -1,6 +1,0 @@
-matplotlib
-pandas
-voila
-requests
-calender 
-dateline
